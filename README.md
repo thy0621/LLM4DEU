@@ -38,7 +38,7 @@ Fine Tuning Large Language Model for Medical Diagnosis in Outpatient and Emergen
 如果你使用了本项目的数据或者代码，请声明引用
 
 	  @misc{alpaca,
-	  author={Boran Wang, Haoyu Tian, Yiming Liu, Xinyu Dai},
+	  author={W, T, L, D},
 	  title = {LLM4DEU},
 	  year = {2023},
 	  publisher = {GitHub},
