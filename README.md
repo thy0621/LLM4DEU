@@ -17,7 +17,8 @@ Fine Tuning Large Language Model for Medical Diagnosis in Outpatient and Emergen
 
 百度网盘链接: 链接: https://pan.baidu.com/s/1-gExh9vBJgMu_sgOVeYtzw 提取码: nbc2 
 
- 
+[## 项目参与者
+本项目由北京科技大学王睿、王博然团队和北京交通大学计算机与信息技术学院医学智能团队田昊宇、刘一铭、戴芯瑜等完成，项目负责人周雪忠老师。另外，感谢天坛医院等多家合作单位提供的医疗数据。]: #
 
 ## 致谢
 本项目参考了以下开源项目，在此对相关项目和研究开发人员表示感谢。
