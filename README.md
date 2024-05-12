@@ -12,14 +12,14 @@ Fine Tuning Large Language Model for Medical Diagnosis in Outpatient and Emergen
 [2023/09] 项目启动
 
 ## A Quick Start
-1. 首先需要下载ChatGLM-6B原始模型代码和参数，并配置依赖环境（ChatGLM-6B: https://github.com/THUDM/ChatGLM-6B）。
+1. 首先需要下载ChatGLM-6B原始模型代码和参数，并配置依赖环境（ChatGLM-6B: https://github.com/THUDM/ChatGLM-6B ）。
 2. 下载 LLM4DEU 模型参数，将checkpoint压缩文件解压到 ChatGLM-6B/ptuning/ 路径下
+
 百度网盘链接: 链接: https://pan.baidu.com/s/1-gExh9vBJgMu_sgOVeYtzw 提取码: nbc2 
 
 ## 项目参与者
 本项目由北京科技大学王睿、王博然团队和北京交通大学计算机与信息技术学院医学智能团队田昊宇、刘一铭、戴芯瑜等完成，项目负责人周雪忠老师。另外，感谢天坛医院等多家合作单位提供的医疗数据。
-
-  
+ 
 
 ## 致谢
 本项目参考了以下开源项目，在此对相关项目和研究开发人员表示感谢。
